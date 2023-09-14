@@ -1,1 +1,1 @@
-# docker
+# docker nginx php mysql redis
